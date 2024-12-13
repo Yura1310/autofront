@@ -1,8 +1,8 @@
 function Footer() {
     return (
         <footer class="bg-gray-800 text-white p-6">
-          <div class="container mx-auto text-center">
-            <p>Контакты и вся хрень</p>
+          <div class="h-[10vh] flex justify-center text-center">
+            <p>Контакты</p>
           </div>
         </footer>
     );
