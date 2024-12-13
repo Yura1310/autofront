@@ -8,7 +8,6 @@ function App() {
     <div className="App" class="flex flex-col min-h-screen">
       <Header/>
       <Body/>
-      <Footer/>
     </div>
   );
 }

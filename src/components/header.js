@@ -6,8 +6,7 @@ function Header() {
             <div class="size-20">
               <img src="/images/logo.png"></img>
             </div>
-            <text class="ml-20 grid grid-cols-5 gap-40 hidden sm:flex text-lg"> 
-              <a href="#"> Добро пожаловать!</a>
+            <text class="ml-20 grid grid-cols-4 gap-10 sm:gap-20 lg:gap-40 xl:gap-60 hidden md:flex sm:text-sm lg:text-lg"> 
               <a href="#" class="hover:underline">о компании</a>
               <a href="#" class="hover:underline">услуги</a>
               <a href="#" class="hover:underline">проекты</a>
