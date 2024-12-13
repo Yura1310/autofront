@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <header class="bg-[#201F1F] text-white p-4">
+        <header class="bg-[#201F1F] text-white py-4 border-b-4 border-orange-500">
             <div class="container mx-auto ">
             <nav class="space-x-40 hidden sm:flex justify-center" >
               <img src="../images/EV cehdbc_.png" class=""></img>
