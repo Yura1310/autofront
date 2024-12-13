@@ -16,11 +16,22 @@ function Second() {
             </div>
         </div>
 
-        <div class="pl-10 pr-10 h-full grid grid-cols-1 grid-rows-5 lg:grid-cols-2">
+        <div class="pl-10 pr-10 h-[70%] grid grid-cols-1 grid-rows-5 lg:grid-cols-2">
             <Card/>
             <Card/>
         </div>
 
+        <div class="h-[120px] w-full flex justify-center">
+            <div class="h-full w-[40%] p-8 flex justify-center">
+                <div class="h-full w-[40%] bg-black rounded-3xl flex justify-center items-center">
+                    <div class="text-white font-bold text-center text-xl"> Посмотреть еще...</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="pl-40 font-bold text-5xl h-full">
+            <p class="">О Компании</p>
+        </div>
 
 
     </main>

@@ -2,7 +2,7 @@
 
 function Card() {
     return (
-        <div class="m-4 shadow-xl bg-black rounded-3xl flex justify-beetwen items-center p-4">
+        <div class="ml-8 mr-8 shadow-xl bg-black rounded-3xl flex justify-beetwen items-center p-4">
             <div class="h-full w-[40%] p-4">
                 <div class="h-full w-full rounded-xl bg-white">
                     <img src="/images/image 2.png" class="rounded-xl w-full h-full"></img>
